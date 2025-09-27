@@ -94,7 +94,21 @@ Regular Updates: Forensic OSINT is committed to keeping its content current, reg
 **Incident Response:** Useful for organizations looking to enhance their incident response capabilities by incorporating OSINT techniques into their forensic analysis.
 
 **Research and Development:** Beneficial for researchers and practitioners interested in exploring the evolving landscape of OSINT and its applications in digital forensics.
+# **Wikileaks**
+WikiLeaks is a non-profit media organization and publisher of leaked documents, founded in 2006 by Australian computer programmer and activist Julian Assange. The organization aims to promote transparency and accountability by publishing classified and sensitive documents that reveal unethical or illegal activities by governments and corporations worldwide.
 
+**Key Features of WikiLeaks:**
+
+**Founding and Purpose:** WikiLeaks was inspired by the release of the Pentagon Papers in 1971 and was established to streamline the whistleblowing process, allowing for quicker dissemination of leaked information. It operates by receiving documents from anonymous sources, which it verifies before publication.
+
+**Major Publications:** Over the years, WikiLeaks has published millions of documents, including:
+**Collateral Murder:** A video showing a U.S. military helicopter attack in Baghdad that killed civilians, including journalists.
+**Afghan and Iraq War Logs:** Thousands of military documents detailing U.S. military operations and civilian casualties.
+**Diplomatic Cables:** Over 250,000 U.S. State Department cables that revealed sensitive diplomatic communications.
+**Controversies:** WikiLeaks has been involved in significant legal and political controversies, including ongoing legal battles regarding Assange's extradition to the United States on espionage charges. The organization has faced criticism for potentially endangering lives by publishing sensitive information and has been accused of bias in its reporting.
+**Impact:** Supporters view WikiLeaks as a crucial player in exposing government and corporate secrets, while critics argue that it poses risks to national security and individual privacy. The organization has won numerous awards for its contributions to journalism and transparency.
+Current Status: As of now, WikiLeaks continues to operate, although it has faced challenges, including interruptions to its donation systems and legal actions against its founder, Julian Assange.
+[WikiLeaks](https://wikileaks.org/)
 #  Advanced Search Operators.
 
 Advanced operators are a way to refine searches and reveal information hidden on public websites.
