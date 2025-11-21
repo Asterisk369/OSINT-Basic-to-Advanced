@@ -1,7 +1,7 @@
 # OSINT-Basic-to-Advanced
 The OSINT Resource Hub is a comprehensive GitHub repository designed to empower learners at all levels, from beginners to advanced practitioners, in the field of Open Source Intelligence (OSINT). This repository serves as a centralized platform for a curated collection of resources, tools, courses, techniques, and methodologies aimed at effectively gathering and analyzing publicly available information.
 
-#  **🌐 OSINT Framework**
+#  **🌐 OSINT Framework** [Click ME](https://osintframework.com/)
 
 The OSINT Framework is a valuable online resource designed to assist users in conducting Open Source Intelligence (OSINT) investigations. It provides a structured and organized collection of tools, techniques, and resources that can be utilized for gathering information from publicly available sources.
 
@@ -22,9 +22,7 @@ _**📚 Use Cases:**_
 **Personal Security:** Individuals can use the framework to monitor their online presence and gather information about potential threats.
 
 
-[OSINT Framework](https://osintframework.com/)
-
-#  OSINT Dojo
+#  OSINT Dojo [Click ME](https://www.osintdojo.com/)
 
 OSINT Dojo is an online platform dedicated to enhancing the skills and knowledge of individuals interested in Open Source Intelligence (OSINT). It serves as a training ground for both beginners and experienced practitioners, offering a variety of resources, courses, and community engagement opportunities.
 
@@ -46,9 +44,8 @@ OSINT Dojo is an online platform dedicated to enhancing the skills and knowledge
 
 **Networking Opportunities:** Provides a space for OSINT practitioners to connect, collaborate, and learn from one another, fostering a sense of community within the field.
 
-[OSINT Dojo](https://www.osintdojo.com/)
 
-#  **🔍 OSINT Techniques**
+#  **🔍 OSINT Techniques** [Click ME](https://www.osinttechniques.com/)
 
 OSINT Techniques is a comprehensive online resource focused on providing users with a wealth of information and tools related to Open Source Intelligence (OSINT). The platform is designed to help individuals and organizations effectively gather, analyze, and utilize publicly available information for various investigative purposes.
 
@@ -71,9 +68,9 @@ OSINT Techniques is a comprehensive online resource focused on providing users w
 
 **Personal Security:** Individuals can utilize the techniques and tools provided to monitor their online presence and protect themselves from potential threats.
 
-[OSINT Techniques](https://www.osinttechniques.com/)
 
-#  **🕵️‍♂️ Forensic OSINT**
+
+#  **🕵️‍♂️ Forensic OSINT** > [Click ME](https://www.forensicosint.com/)
 
 Forensic OSINT is a specialized platform dedicated to the intersection of Open Source Intelligence (OSINT) and digital forensics. It aims to provide resources, tools, and training for professionals involved in investigations that require the collection and analysis of publicly available information.
 
@@ -94,7 +91,8 @@ Regular Updates: Forensic OSINT is committed to keeping its content current, reg
 **Incident Response:** Useful for organizations looking to enhance their incident response capabilities by incorporating OSINT techniques into their forensic analysis.
 
 **Research and Development:** Beneficial for researchers and practitioners interested in exploring the evolving landscape of OSINT and its applications in digital forensics.
-# **Wikileaks**
+
+# **Wikileaks** [Click ME](https://wikileaks.org/)
 WikiLeaks is a non-profit media organization and publisher of leaked documents, founded in 2006 by Australian computer programmer and activist Julian Assange. The organization aims to promote transparency and accountability by publishing classified and sensitive documents that reveal unethical or illegal activities by governments and corporations worldwide.
 
 **Key Features of WikiLeaks:**
@@ -108,7 +106,21 @@ WikiLeaks is a non-profit media organization and publisher of leaked documents, 
 **Controversies:** WikiLeaks has been involved in significant legal and political controversies, including ongoing legal battles regarding Assange's extradition to the United States on espionage charges. The organization has faced criticism for potentially endangering lives by publishing sensitive information and has been accused of bias in its reporting.
 **Impact:** Supporters view WikiLeaks as a crucial player in exposing government and corporate secrets, while critics argue that it poses risks to national security and individual privacy. The organization has won numerous awards for its contributions to journalism and transparency.
 Current Status: As of now, WikiLeaks continues to operate, although it has faced challenges, including interruptions to its donation systems and legal actions against its founder, Julian Assange.
-[WikiLeaks](https://wikileaks.org/)
+
+**OSINT Link**  [Click ME](https://osint.link/)
+refers to connections and relationships discovered through Open Source Intelligence investigations, as well as tools that help visualize these connections[6].
+
+## Key Features of OSINT Link Analysis:
+
+**Relationship Mapping**: OSINT link analysis uncovers hidden connections between people, organizations, events, and data points by examining publicly available information.
+
+**Visualization Tools**: Specialized software like Neo4j, Gephi, and Palantir enable link analysis and graph visualization, helping analysts identify key nodes and understand complex relationships within large datasets.
+
+**Network Tracking**: Investigators use corporate registries, legal documents, LinkedIn profiles, and social media connections to outline networks of individuals or organizations[8]. This technique is particularly valuable for tracking criminal networks, corporate relationships, or extremist groups.
+
+**Pattern Recognition**: Link analysis helps identify spatial patterns and trends by overlaying multiple data sources, especially when combined with geospatial data visualization tools like ArcGIS and QGIS.
+
+**Intelligence Applications**: These techniques require specialized skills in data analysis, programming, and domain-specific knowledge[6], and are used extensively in cybersecurity investigations, law enforcement, and business intelligence to assess risks and uncover threats
 #  Advanced Search Operators.
 
 Advanced operators are a way to refine searches and reveal information hidden on public websites.
