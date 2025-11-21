@@ -1,7 +1,7 @@
 # OSINT-Basic-to-Advanced
 The OSINT Resource Hub is a comprehensive GitHub repository designed to empower learners at all levels, from beginners to advanced practitioners, in the field of Open Source Intelligence (OSINT). This repository serves as a centralized platform for a curated collection of resources, tools, courses, techniques, and methodologies aimed at effectively gathering and analyzing publicly available information.
 
-#  **🌐 OSINT Framework** [Click ME](https://osintframework.com/)
+#  **🌐 OSINT Framework** > [Click ME](https://osintframework.com/)
 
 The OSINT Framework is a valuable online resource designed to assist users in conducting Open Source Intelligence (OSINT) investigations. It provides a structured and organized collection of tools, techniques, and resources that can be utilized for gathering information from publicly available sources.
 
@@ -22,7 +22,7 @@ _**📚 Use Cases:**_
 **Personal Security:** Individuals can use the framework to monitor their online presence and gather information about potential threats.
 
 
-#  OSINT Dojo [Click ME](https://www.osintdojo.com/)
+#  OSINT Dojo > [Click ME](https://www.osintdojo.com/)
 
 OSINT Dojo is an online platform dedicated to enhancing the skills and knowledge of individuals interested in Open Source Intelligence (OSINT). It serves as a training ground for both beginners and experienced practitioners, offering a variety of resources, courses, and community engagement opportunities.
 
@@ -45,7 +45,7 @@ OSINT Dojo is an online platform dedicated to enhancing the skills and knowledge
 **Networking Opportunities:** Provides a space for OSINT practitioners to connect, collaborate, and learn from one another, fostering a sense of community within the field.
 
 
-#  **🔍 OSINT Techniques** [Click ME](https://www.osinttechniques.com/)
+#  **🔍 OSINT Techniques** > [Click ME](https://www.osinttechniques.com/)
 
 OSINT Techniques is a comprehensive online resource focused on providing users with a wealth of information and tools related to Open Source Intelligence (OSINT). The platform is designed to help individuals and organizations effectively gather, analyze, and utilize publicly available information for various investigative purposes.
 
@@ -92,7 +92,7 @@ Regular Updates: Forensic OSINT is committed to keeping its content current, reg
 
 **Research and Development:** Beneficial for researchers and practitioners interested in exploring the evolving landscape of OSINT and its applications in digital forensics.
 
-# **Wikileaks** [Click ME](https://wikileaks.org/)
+# **Wikileaks**  > [Click ME](https://wikileaks.org/)
 WikiLeaks is a non-profit media organization and publisher of leaked documents, founded in 2006 by Australian computer programmer and activist Julian Assange. The organization aims to promote transparency and accountability by publishing classified and sensitive documents that reveal unethical or illegal activities by governments and corporations worldwide.
 
 **Key Features of WikiLeaks:**
@@ -107,7 +107,8 @@ WikiLeaks is a non-profit media organization and publisher of leaked documents, 
 **Impact:** Supporters view WikiLeaks as a crucial player in exposing government and corporate secrets, while critics argue that it poses risks to national security and individual privacy. The organization has won numerous awards for its contributions to journalism and transparency.
 Current Status: As of now, WikiLeaks continues to operate, although it has faced challenges, including interruptions to its donation systems and legal actions against its founder, Julian Assange.
 
-**OSINT Link**  [Click ME](https://osint.link/)
+
+## **OSINT Link** >  [Click ME](https://osint.link/)
 refers to connections and relationships discovered through Open Source Intelligence investigations, as well as tools that help visualize these connections[6].
 
 ## Key Features of OSINT Link Analysis:
