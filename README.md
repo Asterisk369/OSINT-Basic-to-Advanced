@@ -109,7 +109,7 @@ Current Status: As of now, WikiLeaks continues to operate, although it has faced
 
 
 ## **OSINT Link** >  [Click ME](https://osint.link/)
-refers to connections and relationships discovered through Open Source Intelligence investigations, as well as tools that help visualize these connections[6].
+OSINT link is refers to connections and relationships discovered through Open Source Intelligence investigations, as well as tools that help visualize these connections[6].
 
 ## Key Features of OSINT Link Analysis:
 
